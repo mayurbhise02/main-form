@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.form-control {
+  font-size: 13px; }
+
+.col-form-label {
+  font-weight: bold; }
+
+.bg-color {
+  background-color: #ffa500cf !important; }
+
+a {
+  color: #ffa500cf; }
+
+.alert {
+  background-color: #e2e3e5; }
+
+.employment h4 {
+  margin-left: 0; }
+
+/* Small devices (landscape phones, 576px and up) */
+/* Medium devices (tablets, 768px and up) */
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .employment h4 {
+    margin-left: 115px; } }
+
+/* Extra large devices (large desktops, 1200px and up) */
